@@ -8,4 +8,5 @@ Type /duelrecord to open ingame.
 
 
 ***Version 1.1 Updates:*** New record searchbar added, "Disable Fled Counter" option added, multiple bug fixes, cleaner UI. 
+
 ***Version 1.2 Updates - Coming NLT 8/12:*** Additional Loss emotes, loss statistics, losing streaks, etc.
