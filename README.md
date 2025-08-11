@@ -1,3 +1,5 @@
+I update this addon very often so check back at least on a weekly basis until this message gets removed.
+
 This addon is used to track all Duel History and a variety of statistical analysis.
 Type /duelrecord to open ingame.
 
