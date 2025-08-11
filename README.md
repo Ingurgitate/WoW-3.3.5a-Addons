@@ -2,4 +2,4 @@ This addon is used to track all Duel History and a variety of statistical analys
 Type /duelrecord to open ingame.
 
 
-***BEFORE UPGRADING TO VERSION 1.1*** you must go to your "WTF\Account\ (account name) \ (Server name) \ (character name) \Savedvariables" folder and delete "DuelRecord.lua" AND "Duelrecord.lua.bak"
+***IF YOU ARE UPGRADING TO FROM VERSION 1.0 > 1.1*** you must go to your "WTF\Account\ (account name) \ (Server name) \ (character name) \Savedvariables" folder and delete "DuelRecord.lua" AND "Duelrecord.lua.bak"
